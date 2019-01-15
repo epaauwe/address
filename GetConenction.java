@@ -20,7 +20,7 @@ public class GetConenction {
     public static void main(String[] args) {
        //scanner for input
         Scanner in = new Scanner(System.in);
-        
+        //get window
         Window window = new Window();
         
     
